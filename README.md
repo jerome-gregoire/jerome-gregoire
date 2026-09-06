@@ -1,10 +1,10 @@
-## Hello
+## Hello !
 
 <div align="center">
 
 # Gregoire Jerome
 
-> Product-minded developer
+> Multimedia Designer
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=jerome-gregoire&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233129214%3Fv%3D4" alt="jerome-gregoire hero visual" />
@@ -14,13 +14,16 @@
 
 ## A little about me
 
-Building useful things and learning in public.
+Creating a lot of things, I like digital and I maked Design Graphic studies. Today I'm interessed in Digital Marketing and Social Media Management. I love make various content in graphic design, typography, 3D Modeling, Ux / Ui Design, Webdesign,...well I'm just a guy who loves discover and touch digital.
 
 - 👥 **0** followers · **0** following
 
 ## Stack
 
-No public language data yet — building the first project in the open.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=jerome-gregoire&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233129214%3Fv%3D4" alt="jerome-gregoire stats visual" />
