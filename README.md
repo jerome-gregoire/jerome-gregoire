@@ -25,6 +25,15 @@ Creating a lot of things, I like digital and I maked Design Graphic studies. Tod
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+## Design Web Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Divi-6C2EB9?style=for-the-badge&logo=divi&logoColor=white" alt="Divi" />
+  <img src="https://img.shields.io/badge/Bootstrap_Studio-04619F?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Studio" />
+</p>
+
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=jerome-gregoire&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233129214%3Fv%3D4" alt="jerome-gregoire stats visual" />
 </p>
